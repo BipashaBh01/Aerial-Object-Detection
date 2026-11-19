@@ -18,8 +18,7 @@ Extensive data preprocessing was carried out, including image tiling, targeted a
 
 ```
 .
-├── notebook/                                  # full pipeline notebook
-│   └── aerial_object_detection.ipynb
+├── aerial_object_detection.ipynb              # full pipeline notebook
 │
 └── google_drive_link_for_the_datasets.txt     # link to download the datasets
 ```
